@@ -1,2 +1,2 @@
 # FileOrganizer
-Moves different file types to different folders 
+Takes PDF files in the Downloads Folder and moves them to the Documents folder
